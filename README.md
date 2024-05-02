@@ -1,0 +1,2 @@
+This project combines machine learning (ML) and Internet of Things (IoT) to predict water requirements. The trained model uses data from IoT sensors (e.g., temperature, humidity) to determine water needs for various applications.
+In which the IOT data is given to ML model it says how much water requirement for plant growth and using the BLYNK app if we on button on the app automatically water comes from the motor.
